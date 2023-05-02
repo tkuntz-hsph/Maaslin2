@@ -31,7 +31,6 @@ Suggests:
   metagenomeSeq, 
   car, 
   chemometrics,
-  TMB,
   glmmTMB, 
   MASS, 
   cplm, 
